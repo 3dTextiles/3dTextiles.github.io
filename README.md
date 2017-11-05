@@ -10,6 +10,8 @@ Through garment construction and rapid prototyping, we will explore how to integ
 
 A short masterclass will introduce a range of techniques for garment design and construction, ensuring the workshop is suitable for all skill levels. We will include a brief history of wearables and eTextiles, and an overview of recent innovations within HCI and fashion. We encourage people to bring existing projects and ideas, as well as their own materials and preferred microcontrollers.
 
+![Second Skin Image 1: http://www.rachelfreire.com/second-skin-login/](pics/secondSkin.jpg) ![Second Skin Image 2: http://www.rachelfreire.com/second-skin-login/](pics/secondSkinZoom.jpg)
+
 ## Studio Abstract
 
 In this studio, we will improve our tailoring skills in order to better integrate technology into clothing. Leveraging the volumetric nature of clothing, we will create eTextile interfaces that fit the shape of the body and are designed around how bodies move. This studio will consist of a short masterclass led by an expert fashion designer followed by materials experimentation and working on individual projects. We will introduce and demo a variety of ways to design and implement 3- dimensional eTextiles as well as how to integrate them with interactive systems.

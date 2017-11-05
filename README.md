@@ -22,7 +22,7 @@ In this studio, we will improve our tailoring skills in order to better integrat
 
 Rachel Freire Studio - London, United Kingdom
 
-[www.rachelfreire.com](http://www.rachelfreire.com) [rachel@rachelfreire.com](mailto:rachel@rachelfreire.com)
+[www.rachelfreire.com](http://www.rachelfreire.com) - [rachel@rachelfreire.com](mailto:rachel@rachelfreire.com)
 
 Rachel Freire is an artist and designer who uses the body as a canvas. Her work combines material innovation and electronics with traditional craftsmanship, focusing on provocative narratives, value attribution, and sustainable processes. Freire studied Design for Performance at Central Saint Martins, launching her conceptual fashion label on the catwalks of London Fashion Week 2009\. She has been featured by W, Vogue Italia, Interview, and Make. She is the textile designer of mi.mu gloves, a gestural interface to compose and perform music with your hands. Her work is designed to tell stories, or to inspire them.
 
@@ -30,7 +30,7 @@ Rachel Freire is an artist and designer who uses the body as a canvas. Her work 
 
 Human Centred Computing - University of Copenhagen, Denmark
 
-[paulstrohmeier.info](http://www.paulstrohmeier.info) [p.strohmeier@di.ku.dk](mailto:p.strohmeier@di.ku.dk)
+[paulstrohmeier.info](http://www.paulstrohmeier.info) - [p.strohmeier@di.ku.dk](mailto:p.strohmeier@di.ku.dk)
 
 Paul Strohmeier is a PhD Fellow at the University of Copenhagen's Human Centred Computing group. He is interested in Soft Electronics, Haptic Feedback and Perception. His research reflects his interest in both hardware prototyping as well as the phenomenology of perception. He completed his Msc at Queen’s University, Kingston and his BA at University College Maastricht.
 
@@ -38,7 +38,7 @@ Paul Strohmeier is a PhD Fellow at the University of Copenhagen's Human Centred 
 
 Human Centred Computing - University of Copenhagen, Denmark
 
-[jarrodknibbe.com](http://jarrodknibbe.com) [jarrod@di.ku.dk](mailto:jarrod@di.ku.dk)
+[jarrodknibbe.com](http://jarrodknibbe.com) - [jarrod@di.ku.dk](mailto:jarrod@di.ku.dk)
 
 Jarrod Knibbe is a postdoc at the University of Copenhagen's Human Centred Computing group. He conducts research into Electrical Muscle Stimulation (EMS), where he is exploring pose-creation, auto- calibration, and user perception. Alongside this, Jarrod is working closely with colleagues from the Centre for Subjectivity Research to use novel technologies to explore and exploit our body image and schema, and our sense of control.
 
@@ -48,7 +48,7 @@ Sorbonne Universities
 
 UPMC, CNRS, ISIR - Paris, France
 
-[www.honnet.eu](http://www.honnet.eu) [cedric@honnet.eu](mailto:cedric@honnet.eu)
+[www.honnet.eu](http://www.honnet.eu) - [cedric@honnet.eu](mailto:cedric@honnet.eu)
 
 Cedric Honnet is research engineer in the HCI group at ISIR, the robotics lab of Sorbonne University, Paris. With a background in embedded systems engineering, he explores physical computing and interactivity by travelling the world of hackerspaces. He worked as firmware engineer and "interHacktivist" at Sifteo in San Francisco, then co-founded a couple of companies and got to create interactive systems worldwide. He has developed textile musical controllers, virtual reality bike systems, interactive art pieces, and other Open Source projects.
 
@@ -58,7 +58,7 @@ Stamps School of Art & Design,
 
 University of Michigan - Ann Arbor, MI, USA
 
-[www.sophiabrueckner.com](http://www.sophiabrueckner.com) [sbrueckn@umich.edu](mailto:sbrueckn@umich.edu)
+[www.sophiabrueckner.com](http://www.sophiabrueckner.com) - [sbrueckn@umich.edu](mailto:sbrueckn@umich.edu)
 
 Sophia Brueckner is a futurist artist, designer, and engineer. Inseparable from computers since the age of two, she believes she is a cyborg. At Google, she built products for millions. At RISD and the MIT Media Lab, she built sci-fi-inspired devices for mental well-being. She teaches a renowned class on sci-fi prototyping and technology ethics. Her work was featured by Wired, SIGGRAPH, NPR, and more. As an assistant professor at the University of Michigan, she combines design and engineering with the perspective of an artist to create technologies that inspire a more positive future.
 

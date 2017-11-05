@@ -107,66 +107,8 @@ We will end with a review of the day’s activities, allowing participants to ex
 
 All work in progress will be documented as textile techniques often become opaque when a garment is finished. This documentation is not required for participation, but we would prefer all participants are willing to have their work recorded and shared as part of the event. If this is not possible and you wish to partake, please contact us and let us know why and what the necessary restrictions are to ensure there are no issues on the day.
 
-## Bill of Materials
-
-• Statex Techniktex P130 stretch conductive fabric (stretch connectors)
-
-• Eeonyx resistive stretch fabric (stretch sensors)
-
-• Eeonyx resistive non-stretch (pressure sensors)
-
-• Safety silk (transparent connectors non-stretch)
-
-• Copper rip-stop fabric (sturdy connectors non- stretch)
-
-• Bemis stretch bonding film 3415 in 0.02 thickness. (a stretch bonding material used in sportswear technology, this material allows for effective rapid prototyping using only a domestic iron)
-
-• Karl Grimm conductive thread (Used for heavier applications, such as making soft fabric connectors to replace cables. Is solderable)
-
-• Elitex conductive thread (Used for machine sewing
-
-• Selection of safety pins, jewellery findings, rivets, headers, jumper wires)
-
-• Daburn silicone wire
-
-• Solder & Shrinktube
-
-• A variety of non-conductive fabrics to make the basis of the garments, in different weights: cotton, demin, lycra, powernet, voile, leather & Non-conductive threads.
-
-## Technical Requirements
-
-The following resources and equipment are required from the host:
-
-• 16+ power outlets/splitters for computers/tools
-
-• Sufficient table space for computers, pattern cutting and sewing (4 large tables)
-
-• Iron and ironing board
-
-• A projector
-
-• Internet access
-
-• 4 x soldering irons
-
-• 2 x tailors bust and 1 x full body mannequin
-
-• Microcontrollers, provided by the Studio Coordinators and participants.
-
-• Electronics tools (3-5 multimeters, needle nose pliers, etc...) provided by the Studio Coordinators and host institution
-
-• Sewing tools (scissors, rulers etc) provided by the Studio Coordinators and host institution
-
-• Sewing machine provided by the Studio Coordinators
-
-• The following resources and equipment are desired, but would not prevent the Studio from thriving should they not be available:
-
-• Additional sewing machine(s)
-
-• Additional tailors bust(s) and mannequin(s)
-
 
 ## Call for Position Statements
 
 The studio is open for anyone to join, but we have a limited number of possible participants. We encourage everyone interested in participating to briefly outline their experience with textiles, their research interests and how this workshop will connect to their own research. This will help us to tailor the workshop to the participants and ensure diversity in participant backgrounds.
-
+Please send us an e-mail at 3dtextiles@googlegroups.com

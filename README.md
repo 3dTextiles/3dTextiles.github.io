@@ -97,4 +97,6 @@ All work in progress will be documented as textile techniques often become opaqu
 ## Call for Position Statements
 
 The studio is open for anyone to join, but we have a limited number of possible participants. We encourage everyone interested in participating to briefly outline their experience with textiles, their research interests and how this workshop will connect to their own research. This will help us to tailor the workshop to the participants and ensure diversity in participant backgrounds.
-Please send us an e-mail at 3dtextiles@googlegroups.com
+
+Please send us an e-mail at [3dtextiles@googlegroups.com](mailto:3dtextiles@googlegroups.com)
+

@@ -65,38 +65,37 @@ Sophia Brueckner is a futurist artist, designer, and engineer. Inseparable from 
 ## Studio Proposed Schedule
 
 Our workshop will last a full 8 hour day and can accommodate 12 participants. The morning session will be dedicated to learning, demos and discussion. The afternoon session will be practical making and we will end with a review to share findings
-9:00 - 9:15 am Introductions
 
-9:15 - 9:30 am Presentation: Overview of the Day
 
-9:30 - 10:00 am Presentation: eTextiles
+09:00 Introductions (Paul)
 
-Our first hour will introduce each other and our skill sets. We will then introduce the structure of the day, presenting techniques and inspiration, including a brief overview of recent innovations within HCI and fashion.
+09:45 Coffee Break
 
-10:00 - 11:00 am Masterclass
+10:00 Presentation: eTextiles (Sophia) \\
+A brief overview of recent innovations within HCI and fashion. Process of designing Embodisuit and SecondSkin.
 
-An informal presentation introducing different methods of garment construction: Pattern cutting, draping techniques, materials overview. The aim is to equally facilitate both beginners and those with prior experience. Ways of thinking about, designing and implementing 3-dimensional eTextile design. Examples of how traditional tailoring techniques can be employed and adapted for electronics integration.
+10:45 Masterclass (Rachel) \\
+An informal presentation introducing different methods of garment construction: Pattern cutting, draping techniques, materials overview. The aim is to equally facilitate both beginners and those with prior experience. Ways of thinking about, designing and implementing 3-dimensional eTextile design. Examples of how traditional tailoring techniques can be employed and adapted for electronics integration. (Rachel)
 
-11:00 - 12:00 pm  Textile Challenges
+12:30 Lunch Break
 
-Start experimenting with designs and materials. Make samples for prototypes.
+13:15 Prototyping Workshop  \\
+Free-form workshop and rapid prototyping session. Small groups will work on actualizing their ideas using the materials available as well as any materials they may have brought with them. Discussion and collaboration between groups will be encouraged, especially if the morning discussion finds areas of overlap in desired outcomes. Individuals and groups will be encouraged to create full garments or to make smaller samples that embody relevant techniques to apply after the workshop. We also encourage those without specific outcomes to experiment with both materials and form in a more fluid manner.
 
-12:00 - 1:00 pm Lunch Break
+15:00 Coffee Break
 
-1:00 - 5:00 pm Prototyping Workshop
+17:00 Review of the day’s activities, allowing participants to exchange findings and share work in an informal round table discussion.
 
-Freeform workshop and rapid prototyping session. Small groups will work on actualizing their ideas using the materials available as well as any materials they may have brought with them. Discussion and collaboration between groups will be encouraged, especially if the morning discussion finds areas of overlap in desired outcomes. Individuals and groups will be encouraged to create full garments or to make smaller samples that embody relevant techniques to apply after the workshop. We also encourage those without specific outcomes to experiment with both materials and form in a more fluid manner.
-
-5:00 - 6:00pm Review
-
-We will end with a review of the day’s activities, allowing participants to exchange findings and share work in an informal round table discussion.
+18:00 End
 
 All work in progress will be documented as textile techniques often become opaque when a garment is finished. This documentation is not required for participation, but we would prefer all participants are willing to have their work recorded and shared as part of the event. If this is not possible and you wish to partake, please contact us and let us know why and what the necessary restrictions are to ensure there are no issues on the day.
 
 
-## Call for Position Statements
+## Contact
 
-The studio is open for anyone to join, but we have a limited number of possible participants. We encourage everyone interested in participating to briefly outline their experience with textiles, their research interests and how this workshop will connect to their own research. This will help us to tailor the workshop to the participants and ensure diversity in participant backgrounds.
+Google group: [https://groups.google.com/forum/#!forum/3dTextiles](https://groups.google.com/forum/#!forum/3dTextiles)
 
-Please send us an e-mail at [3dtextiles@googlegroups.com](mailto:3dtextiles@googlegroups.com)
+Email everyone: [3dTextiles@googlegroups.com](mailto:3dTextiles@googlegroups.com)
+
+Email organisers: [3dTextiles+owners@googlegroups.com](mailto:3dTextiles+owners@googlegroups.com)
 

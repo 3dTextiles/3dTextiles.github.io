@@ -2,6 +2,27 @@
 
 A workshop at [ACM TEI 2018](https://tei.acm.org/2018/).
 
+## Participant List
+* Rachel Freire (organiser)    -                                Rachel Freire Studio
+* Paul Strohmeier (organiser)   -                         University of Copenhagen
+* Cedric Honnet (organiser)   -                                   Sorbonne University
+* Jarrod Knibbe (organiser)   -                                     University of Copenhagen
+* Sophia Brueckner (organiser)    -                           University of Michigan
+* Anne Sullivan    -                                    University of Central Florida 
+* Cristina Tarquini    -                               Volkswagen Group Future Center Europe GmbH
+* Eva Hornecker    -                                  Bauhaus-Universität Weimar
+* Jiasi Gao      -                                           x-studio, Tsinghua University
+* Kit Halvorsen  -                                      Panafold
+* Lucio Sgrigna      -                                   Volkswagen Group Future Center Europe GmbH
+* Margaret Flemings       -                      Wellesley College
+* Mithru Vigneshwara Swarna    -      NYU
+* Rébecca Kleinberger       -                   MIT Media Lab
+* Trisha Garcia      -                                   Wellesley College
+* Andreas Almqvist -                              KTH (SV)
+* Akito van Troyer     -                             MIT Media Lab
+
+## Impressions
+
 ## Call for Participation
 
 Our clothing is not flat, but rather conforms and adapts to our bodies. In this hands-on workshop, participants will experiment and create 3D eTextile garments, while discussing the rich history, current state and possible future directions of wearables.

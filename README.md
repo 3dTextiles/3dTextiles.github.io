@@ -3,11 +3,7 @@
 A workshop at [ACM TEI 2018](https://tei.acm.org/2018/).
 
 ## Participant List
-* Rachel Freire (organiser)    -                                Rachel Freire Studio
-* Paul Strohmeier (organiser)   -                         University of Copenhagen
-* Cedric Honnet (organiser)   -                                   Sorbonne University
-* Jarrod Knibbe (organiser)   -                                     University of Copenhagen
-* Sophia Brueckner (organiser)    -                           University of Michigan
+
 * Anne Sullivan    -                                    University of Central Florida 
 * Cristina Tarquini    -                               Volkswagen Group Future Center Europe GmbH
 * Eva Hornecker    -                                  Bauhaus-Universität Weimar
@@ -20,6 +16,11 @@ A workshop at [ACM TEI 2018](https://tei.acm.org/2018/).
 * Trisha Garcia      -                                   Wellesley College
 * Andreas Almqvist -                              KTH (SV)
 * Akito van Troyer     -                             MIT Media Lab
+* Rachel Freire (organiser)    -                                Rachel Freire Studio
+* Paul Strohmeier (organiser)   -                         University of Copenhagen
+* Cedric Honnet (organiser)   -                                   Sorbonne University
+* Jarrod Knibbe (organiser)   -                                     University of Copenhagen
+* Sophia Brueckner (organiser)    -                           University of Michigan
 
 ## Impressions
 Some pictures taken during the workshop - we intend to update this with more detailed project descriptions soon

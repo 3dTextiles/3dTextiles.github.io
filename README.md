@@ -22,6 +22,12 @@ A workshop at [ACM TEI 2018](https://tei.acm.org/2018/).
 * Akito van Troyer     -                             MIT Media Lab
 
 ## Impressions
+Some pictures taken during the workshop - we intend to update this with more detailed project descriptions soon
+[](pics_workshop/puppetteer.jpg)
+[](pics_workshop/pinning.jpg)
+[](pics_workshop/glueing.jpg)
+[](pics_workshop/sewing.jpg)
+[](pics_workshop/fitting.jpg)
 
 ## Call for Participation
 
